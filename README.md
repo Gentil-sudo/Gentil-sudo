@@ -1,13 +1,13 @@
 ### Olá! Seja bem vindo ao meu GitHub, é aqui onde deposito a maioria dos meus projetos de estudo, e será aqui onde verei o meu desenvolvimento diário.
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ArthurHydr&show_icons=true&theme=tokyonight)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Gentil-sudo&show_icons=true&theme=tokyonight)
 <details>
 <summary> <b> Um pouco sobre mim</b> <i>(Clique aqui para expandir)</i> </summary>
 
 ---
 
 ### 📖 Sobre mim
-Meu nome é Arthur Ottoni Ribeiro, tenho 17 anos e sou estudante de "Segurança ofensiva" desde 2017. Atualmente estudo criação de aplicações web, utilizando as tecnologias: ReactJs, NodeJs, Javascript, Typescript. Também faço a parte do Back-end utilizando: Python, ruby e Node.
+Meu nome é Gentil ,Estudo  as seguintes tecnologias: ReactJs, NodeJs, Javascript, Typescript. Também faço a parte do Back-end utilizando: Python, ruby e Node.
 </details>
 
 ---
