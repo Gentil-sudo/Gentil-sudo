@@ -12,16 +12,6 @@ Meu nome é Enzo Gentil, estudo  as seguintes tecnologias: ReactJs, NextJS, Node
 
 ---
 
-## Linguagens Mais Usadas
-
-<p align="center">
-    
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gentil-sudo&layout=compact&theme=tokyonight)
-
-</p>
-
----
-
 ### 📚 Atualmente Estudando 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7B93E?style=flat-square&logo=javascript&logoColor=fff)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
