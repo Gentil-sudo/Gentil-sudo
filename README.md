@@ -7,7 +7,7 @@
 ---
 
 ### 📖 Sobre mim
-Meu nome é Gentil ,Estudo  as seguintes tecnologias: ReactJs, NodeJs, Javascript, Typescript. Também faço a parte do Back-end utilizando: Python, ruby e Node.
+Meu nome é Enzo Gentil, estudo  as seguintes tecnologias: ReactJs, NextJS, NodeJs, Javascript, Typescript. Também faço a parte do Back-end utilizando: Python, Ruby e Node.
 </details>
 
 ---
