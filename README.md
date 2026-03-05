@@ -1,6 +1,5 @@
 ### Olá! Seja bem vindo ao meu GitHub, é aqui onde deposito a maioria dos meus projetos de estudo, e será aqui onde verei o meu desenvolvimento diário.
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Gentil-sudo&show_icons=true&theme=tokyonight)
 <details>
 <summary> <b> Um pouco sobre mim</b> <i>(Clique aqui para expandir)</i> </summary>
 
