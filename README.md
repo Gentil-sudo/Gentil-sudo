@@ -1,19 +1,19 @@
-### Olá! Seja bem vindo ao meu GitHub, é aqui onde deposito a maioria dos meus projetos de estudo, e será aqui onde verei o meu desenvolvimento diário.
+# Olá, eu sou o Enzo 👋
 
-<details>
-<summary> <b> Um pouco sobre mim</b> <i>(Clique aqui para expandir)</i> </summary>
+Estudante de Engenharia de Software na PUC Minas (aprovado em 1º lugar no ProUni), em busca do primeiro estágio em desenvolvimento em Belo Horizonte.
+Construo aplicações web completas: React + TypeScript no front-end, Java + Spring Boot no back-end, com PostgreSQL e MongoDB.
 
----
+🌐 Portfólio: https://portfolio-gentil-sistema.vercel.app  
+💼 LinkedIn: https://linkedin.com/in/enzo-gentil-xavier  
+✉️ enzogentil.profissional@gmail.com
 
-### 📖 Sobre mim
-Meu nome é Enzo Gentil, estudo  as seguintes tecnologias: ReactJs, NextJS, NodeJs, Javascript, Typescript. Também faço a parte do Back-end utilizando: Python, Ruby e Node.
-</details>
+## Projetos em destaque
+- **GFinanças**: organizador financeiro com Row Level Security testado entre usuários, auditoria no banco e PWA. [Ver online](https://gfinc.vercel.app)
+- **AlugaAqui**: aluguel de carros com Spring Boot, autenticação JWT stateless e deploy em Docker. [Ver online](https://lab2-diw.vercel.app)
+- **Aurora Station**: jogo do NASA Space Apps 2026 com acessibilidade WCAG 2.2 AA validada no axe-core. [Ver online](https://hackathon-nasa-aurora.vercel.app)
 
----
-
-### 📚 Atualmente Estudando 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7B93E?style=flat-square&logo=javascript&logoColor=fff)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-549FDE?style=flat-square&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-FFE873?style=flat-square&logo=Python&logoColor=306998)
-
+## Stack
+**Front-end:** React · TypeScript · JavaScript · Next.js · Vite · Tailwind CSS · Phaser  
+**Back-end:** Java · Spring Boot · Spring Security (JWT) · Node.js · Express  
+**Dados:** PostgreSQL (Supabase) · MongoDB  
+**Ferramentas:** Git · Docker · Vercel · Render · Scrum
